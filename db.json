@@ -1,5 +1,22 @@
 {
   "jobs": {
-    "status": 200
+    "status": 200,
+        "data": [
+           {
+            "company": {
+              "name": "NanoNets",
+              "desc": "A Y-Combinator backed Machine Learning API Startup",
+              "logo": "https://i.imgur.com/Ri0Z1HK.jpg"
+            }, 
+            "job": {
+              "title": "Senior Front End Engineer",
+              "desc": "Responsible for building and maintaining our website(nanonets.com) Individual contributor role",
+              "exp": {"min": 6, "max": 11},
+              "medianExp": 9,
+              "skillsReq": ["5 years of javascript", "HTML", "CSS", "Vue.js", "3 years of ReactJs"],
+            }, 
+
+          }
+  ]
   }
 }
